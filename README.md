@@ -166,12 +166,8 @@ pip-risk-prediction/
 ├── data/PIP_Risk_Dataset.csv
 ├── notebooks/PIP_Risk_Prediction_Documented.ipynb
 ├── images/
-├── requirements.txt
 └── README.md
 ```
-
-```bash
-pip install -r requirements.txt
 jupyter notebook notebooks/PIP_Risk_Prediction_Documented.ipynb
 ```
 
@@ -186,9 +182,3 @@ seaborn
 scikit-learn
 scipy
 statsmodels
-```
-
----
-
-## Author
-**Your Name** · [LinkedIn](https://www.linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
